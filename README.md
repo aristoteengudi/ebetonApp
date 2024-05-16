@@ -36,6 +36,6 @@ INSTALLATION
 ### Install via Composer
 
 ~~~
-composer composer install
+composer  install
 ~~~
 
